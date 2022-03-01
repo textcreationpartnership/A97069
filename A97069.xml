@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bowing the heart of subjects to their sovereign. A sermon preached on the 24th of May, 1660. Being a day of publick thanksgiving to the Lord for raising up his Excellency the Lord General Monck, and other eminent persons, who have been instrumental in the delivery of this nation from thraldom and misery. By Francis Walsall D.D. and rector of Sandy in Bedfordshire.</title>
+            <author>Walsall, Francis, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97069</idno>
+            <idno type="STC">Wing W624</idno>
+            <idno type="STC">Thomason E1033_6</idno>
+            <idno type="STC">ESTC R208962</idno>
+            <idno type="EEBO-CITATION">99867877</idno>
+            <idno type="PROQUEST">99867877</idno>
+            <idno type="VID">168909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168909)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bowing the heart of subjects to their sovereign. A sermon preached on the 24th of May, 1660. Being a day of publick thanksgiving to the Lord for raising up his Excellency the Lord General Monck, and other eminent persons, who have been instrumental in the delivery of this nation from thraldom and misery. By Francis Walsall D.D. and rector of Sandy in Bedfordshire.</title>
+                  <author>Walsall, Francis, d. 1661.</author>
+               </titleStmt>
+               <extent>[6], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Sherley at the golden Pelican in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached on May 24, 1660. Being a day of publike thanksgiving.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168909:1" rendition="simple:additions"/>
+            <p>THE Bowing the Heart OF SUBJECTS TO THEIR SOVEREIGN.</p>
+            <p>A SERMON PREACHED on the 24<hi rend="sup">th</hi> of <hi>May,</hi> 1660.</p>
+            <p>Being a Day of Publick Thankſgiving to the Lord for raiſing up his Excellency the Lord General <hi>MONCK,</hi> and other eminent Perſons, who have been Inſtrumental in the Delivery of this Nation from thraldom and miſery.</p>
+            <p>By <hi>Francis Walſall</hi> D. D. and Rector of <hi>Sandy</hi> in <hi>Bedfordſhire.</hi>
+            </p>
+            <bibl>PSAL. 126. 1, 2, 3.</bibl>
+            <q>When the Lord turned again the captivity of Zion, we were like them that dream.</q>
+            <q>Then was our mouth filled with laughter, and our tongue with ſinging, then ſaid they among the Heathen, The Lord hath done great things for them.</q>
+            <q>The Lord hath done great things for us: whereof we are glad.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Sherley</hi> at the <hi>golden Pelican</hi> in Little-Britain, 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168909:2"/>
+            <pb facs="tcp:168909:2"/>
+            <head>TO THE Ingenuous Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not hard to divine, that this poor Peece will be charg'd with a dou<g ref="char:EOLhyphen"/>ble guilt, of coming out too ſoon, and of coming out too late; too ſoon as being no bet<g ref="char:EOLhyphen"/>ter, and too late if it were better. The horns of this <hi>Dilemma</hi> will be
+<pb facs="tcp:168909:3"/> more eaſily ſlipt, by owning both, then denying either. The reaſon why it comes out ſo late, being becauſe the Authour thought it not fit to come out at all, howſoever at laſt <hi>he bowed his heart,</hi> to uſe the phraſe of his Text, to the judgment (ſhall I ſay?) or affection of his Friend: <hi>'twere a day after the Feaſt,</hi> but that he hopes the Feaſt will laſt alwayes: beſides that it may paſſe for a vigil to the grand Feſtival of <hi>June 28.</hi> which is appointed a <hi>Day of Thankſgiving for his Maje<g ref="char:EOLhyphen"/>ſties happy return,</hi> &amp;c. If any expreſsion in it be quarrell'd at, as too <hi>aery,</hi> thou wilt eaſily pardon the ebullitions and excreſcences of an ex<g ref="char:EOLhyphen"/>ceſſive and unweildy Joy. Since it pleaſed God to goe out of the ordinary
+<pb facs="tcp:168909:3"/> Roade of his Providences, in giving us this bleſſed Opportunity of Rejoycing, it is no wonder if we ſtep out of our ordi<g ref="char:EOLhyphen"/>nary roade of Preaching, to meet him, and wait upon his Praiſe. Thoſe clear ſouls, whoſe real affections to the Cauſe have exalted their ſpirits, will need no other Topick to perſwade their Allowance of ſome paſſages, which upon another Account may ſeem <hi>too light,</hi> than this, that when Rivers overflow their banks, (as in this great Spring<g ref="char:EOLhyphen"/>tide of Joy) before they retreat to their channels, they leave behind them a kind of <hi>light matter</hi> that floated upon the face of the waters, which has its uſe too in a tendency to make fruitfull, as the reſt of the body of water that has more <hi>weight,</hi> and <hi>ſinks deeper.</hi> When
+<pb facs="tcp:168909:4"/> mens mouths have been long ſtopped (as we have been too long <hi>ante-epiſcopal<g ref="char:EOLhyphen"/>ly</hi> ſilenc'd) when the Lord <hi>opens our lips to ſhew forth his praiſe</hi> by ſo eminent a Miracle of Mercy as this was, it is hard to give a check to thoſe thoughts that have lain ſo long in durance, and now preſs, and throng, and croud up to ſuch a Goal-delivery. Such Solemnities, as they enlarge the heart, ſo they give a great latitude to Tongue and Pen in venting thoſe enlargements. But no more, this will be enough to him I addreſs to, the Ingenuous Reader.</p>
+            <closer>
+               <signed>F. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168909:4"/>
+            <head>A SERMON Preached on <hi>May</hi> 24, 1660. Being a Day of Publike Thankſgiving, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>2 SAM. 19. 14.</bibl>
+               <q>And he bowed the heart of all the men of Judah, even as the heart of one man, ſo that they ſent this word unto the King; Reurn thou and all thy ſervants.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S I cannot ſpeak too much, ſo I would not ſpeak too little, of thoſe Glories the moſt <hi>conſpi<g ref="char:EOLhyphen"/>cuous</hi> hand of Providence hath <hi>ſhed</hi> and <hi>ſhined</hi> upon us, thoſe Miracles of Mercies he hath guilded and enameld this day withall: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the day is too little for the day, as our Saviour ſaith, <hi>Enough for the day is the evil</hi>
+               <note place="margin">Matth. 6. 34.</note> 
+               <hi>thereof:</hi> ſo may we ſay (and happy we that we may ſay ſo) <hi>too much</hi> for the day is the <hi>good</hi> thereof: the day is too little to acquaint you with all the Grounds of your praiſing God this day, and to raiſe the Build<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:168909:5"/> of your high Praiſes upon thoſe grounds. There<g ref="char:EOLhyphen"/>fore<note place="margin">Pſal. 149. 6.</note> that little that the little time will give me leave to ſpeak to the Time, I would fain have apt and ap<g ref="char:EOLhyphen"/>poſite, <hi>few</hi> words, but <hi>fit</hi> words; acceptable words, ſuch as the Preacher ſought out, <hi>a word in ſeaſon,</hi> ſuch<note place="margin">Eccleſ. 12. 10. Eſa. 50. 4. Prov. 25. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Opus Diei in die ſuo.</hi>
+               </note> as the Prophet found out. <hi>Solomon</hi> tells us, <hi>that a word fitly ſpoken is like Apples of Gold in Pictures of ſilver:</hi> ſuch gold and ſilver Medals would I caſt a<g ref="char:EOLhyphen"/>mong you this day: and therefore have I pitched up<g ref="char:EOLhyphen"/>on this Text, than which the whole Book of God affords none more ſeaſonable and ſuitable for the work of the day, or the day of the work: for it wraps up in its fair boſome, all thoſe ſparkling circumſtan<g ref="char:EOLhyphen"/>ces that have <hi>canonizd</hi> this day in the <hi>Rubrick</hi> of our hearts, and <hi>characterd</hi> it in a <hi>Dominicall ſcarlet</hi> for a holy Feaſt to the Lord, a day of Praiſe and Thankſ<g ref="char:EOLhyphen"/>giving. This <hi>May</hi> 24, is the forerunner of <hi>May</hi> 29, as <hi>John Baptiſt</hi> was to Chriſt: and I have the rather choſen this, becauſe, as it is a remarkable Time, ſo you ſhould have a remarkable Text; that whatſoever the Sermon be, you may be ſure of an excellent Text, a Text butted and bounded, and exactly circumſtan<g ref="char:EOLhyphen"/>tiated and proportioned to the Time; that thoſe, that commonly remember little of the Sermon, may re<g ref="char:EOLhyphen"/>member Sermon enough in the Text. <hi>And he bowed the heart of all the men of Judah, even as the heart of one man; ſo they ſent this word unto the King, Re<g ref="char:EOLhyphen"/>turn thou and all thy ſervants.</hi>
+            </p>
+            <p>My work to day ſhall be only a Paraphraſe and a Parallel, cloſe woven together on the words modelled into theſe three parts:</p>
+            <p n="1">1. Here's a bleſſed Inſtrument; <hi>He.</hi>
+            </p>
+            <p n="2">2. A bleſſed Influence of that, <hi>He,</hi> upon others;
+<pb n="3" facs="tcp:168909:5"/> 
+               <hi>He bowed the heart of all the men of Judah, even as the heart of one man.</hi>
+            </p>
+            <p n="3">3. A bleſſed Effect of this Influence, <hi>that they ſent this word unto the King, Return thou and all thy ſer<g ref="char:EOLhyphen"/>vants.</hi>
+            </p>
+            <p n="1">1. The bleſſed Inſtrument, <hi>He:</hi> A bleſſed In<g ref="char:EOLhyphen"/>ſtrument in the hands of God and the King; Gods ſervant, and the Kings ſervant, <hi>Amaſa,</hi> the Generall of the Army. If you would know who this<g ref="char:punc">▪</g> 
+               <hi>Amaſa</hi> was, look into <hi>Chap. 17. 25. And Abſolom made Amaſa Captain of the Hoſt inſtead of Joab:</hi> He was the Generall of the Advers Party, <hi>Abſoloms</hi> Generall, yet <hi>He</hi> (i. e.) his Generall did this great Work: <hi>He bowed the hearts of all the men of Judah,</hi> (i. e.) He inclind and brought over the whole Nation to the King, that he might happily bring over the King to the Nation: God bowed his heart firſt, and then he bowed the hearts of all the People. This bowing the Generals heart to the King, as well as the Generals bowing the hearts of the People to the King, is the moſt eminent and <hi>con<g ref="char:EOLhyphen"/>ſpicuous</hi> work of the great <hi>heart-bower</hi> and <hi>heart<g ref="char:EOLhyphen"/>breaker</hi> God himſelf; of whom <hi>Solomon</hi> ſaith, <hi>Prov. 21. 1. The Kings heart is in the hand of the Lord as the rivers of water, he turneth it whitherſoever he will.</hi> He turned the Generals heart to the King, and turnd the Peoples heart to the Generall, that he might turn<note place="margin">Gen. 22. 14. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the Peoples heart to their King. This is <hi>Deus in mon<g ref="char:EOLhyphen"/>te, &amp; Deus è machiná,</hi> an eminent and immediate Providence: where we may ſee, not the finger only, but the hand; not the hand only, but the eminent, viſible, naked bare Arm of God. God covers his hand, acts as it were behind the hangings when he
+<pb n="4" facs="tcp:168909:6"/> uſes means, but when he will ſhed a luſtre upon emi<g ref="char:EOLhyphen"/>nent <hi>Perſons</hi> and <hi>Things</hi> by immediate Providences, he makes no uſe of the Creature, but puts forth his own power immediately: thus he handles the ene<g ref="char:EOLhyphen"/>mies of his Church without gloves (as we ſay) with his bare naked hand, which is more than with his Rod, as ſpeaking immediate vengeance: and thus God delivers his ſervants with a mighty hand and outſtretched arm. So has he done for us, that we may ſay with the Prophet, <hi>Eſa. 52. 10. The Lord</hi>
+               <note place="margin">Hab. 3. 9. Thy bow was made quite naked.</note> 
+               <hi>hath made bare his holy arm in the eys of all Nations, and all the ends of the earth ſhall ſee the ſalvation of God.</hi> And therefore you ſhall find in ſome Scriptures, that God does eminently aſſert his own hand, as <hi>Eſa. 63. 5. I looked and there was none to help, and I wondred that there was none to uphold, therefore his own arm</hi> 
+               <note n="*" place="margin">Eſa. 59. 16. It is in the third perſon, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is arm.</note> 
+               <hi>brought ſalvation.</hi> Thus it has often been the honour and happineſs of Gods people, to own their ſalvation to the immediate hand of God: <hi>Deut. 33. laſt. Happy art thou O Iſrael; who is like unto thee, ſaved by the Lord, the ſhield of thy<g ref="char:punc">▪</g> help, and who is the ſword of thy excellence?</hi> ſuch is the ſalvation we bleſs God for this day; <hi>this is the Lords doing and it is marvellous in our eyes,</hi> Pſal. 118. 23. it is in the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> this is from the Lord, <hi>i. e.</hi> the immediate hand of God: the doing is from the Lord, as the day is from the Lord, both his immediate work, as it follows <hi>ver. 24. this is the day which the Lord hath made, we will rejoyce and be glad in it: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> hanc diem fecit Dominus,</hi> which I conceive a more naturall reading of the words, than that of <hi>haec eſt dies quam fecit Dominus;</hi> becauſe there is neither, <hi>is,</hi> nor <hi>which,</hi> in the Text. This deed
+<pb n="5" facs="tcp:168909:6"/> the Lord did, and this day the Lord made, we will re<g ref="char:EOLhyphen"/>joyce and be glad in it. And good reaſon, for ſuch a <hi>ſweet,</hi> ſuch a <hi>ſudden,</hi> ſuch a <hi>ſaving</hi> change, without <hi>noiſe,</hi> without <hi>charge,</hi> without <hi>bloud,</hi> I challenge all Nations, all Ages, all Story to produce a paralell: the Lord help us to kiſs the Hand of that glorious Arm with an humble Thankfullneſs. Let us thank God for <hi>Amaſa,</hi> and let us thank God in <hi>Amaſa</hi> for <hi>David:</hi> let us thank God for the Generall, and let us thank God in the Generall for the King. As we have a high ſhare, ſo let us have a deep ſenſe, of thoſe <hi>ſweet</hi> and <hi>ſaving</hi> ſucceſſes that Providence hath crownd the Generals undertaking with. I would gladly let the world know the value we put upon his Excellence for our Deliverances; deliverances that have not only <hi>anſwerd,</hi> but <hi>prevented</hi> our hopes, <hi>pre<g ref="char:EOLhyphen"/>vented</hi> and yet <hi>enlargd</hi> them, by giving in pledges to our humble confidence, that this <hi>floating Iſland</hi> is at length growing to its long-groand-for eſtabliſhment, upon its <hi>proper Baſis</hi> of <hi>Truth</hi> and <hi>Peace, Religion</hi> and <hi>Law.</hi> Let us pay our Sterling<g ref="char:punc">▪</g> thanks to the Lord of Hoſts for this Excellent <hi>Amaſa</hi> the Lord Generals Excellence, whom the Lord hath made the Healer of our Breaches, firſt to heal <hi>a broken and divided Houſe,</hi> and by that <hi>a broken and divided Kingdom:</hi> both which, as they were a Judgment of God upon us, ſo in the Judgment of God himſelf, they threatned our fatall and finall Ruin. <hi>A Houſe divided,</hi> and <hi>a King<g ref="char:EOLhyphen"/>dom divided, cannot ſtand,</hi> ſaith Chriſt, <hi>Mar.</hi> 3. 24, 25. And we were <hi>both theſe,</hi> and the Lord made the Ge<g ref="char:EOLhyphen"/>nerall a bleſſed Inſtrument of <hi>Healing both theſe,</hi> and by them <hi>us all;</hi> by applying his excellent Weapon<g ref="char:EOLhyphen"/>ſalve to the Sword, heald us that were hurt. It was he
+<pb n="6" facs="tcp:168909:7"/> that ſet the <hi>diſlocated</hi> (ſecluded) <hi>Members</hi> of that great <hi>Body in joynt</hi> again: He was the firſt Mover to our Happineſs, the firſt that gave Check to that ra<g ref="char:EOLhyphen"/>pid motion that ſo hurryd us to deſtruction. It was he that ſecurd the <hi>Intervall between the two Par<g ref="char:EOLhyphen"/>liaments</hi> ſo, that (though the world was half mad then) yet we had <hi>a lucid</hi> Intervall. It was he that <hi>ſetled</hi> our Joys and <hi>ſecurd</hi> our hopes in this preſent Parliament. It is he, the needfull Midwifery of whoſe conſtant Care and goodneſs ſtill attends this poor travelling Nation (that is yet in her Throes tormented with many ſtrugling Parties in her Womb) till ſhe be fairly deliverd of a Handſom and Happy Birth, that may wear the Lord Generals Name to Poſterity, and our Childrens Children ſhall ſing the Story of the Lord Generall <hi>Monks</hi> Peace, while their pleaſd Parents ſmile themſelves into tears of Joy, in the remembrance that they liv'd to ſee the Truth of thoſe ſtrange Revolutions, that to after-Ages may poſſibly wear the face of a Romance. This is that bleſſed Inſtrument in Gods hand and the Kings hand: that <hi>He</hi> in my Text, Noble <hi>Amaſa,</hi> a Generall that is the Darling of Prince and People. Lord ſhield him from the Fate of <hi>Amaſa</hi> and <hi>Joab:</hi> Lord keep him as the Apple of thine Eye, whom thou haſt raiſd to keep the Apple (the light) of our Eys, his moſt Sacred Majeſty, the only proper and precious Keeper of our Lives and Liberties. O may both King and Generall long live happy in one another, and all we in both them! You may wonder I have ſaid ſo much of this <hi>He,</hi> the Generall: but that I may re<g ref="char:EOLhyphen"/>bate that wonder, which is indeed but the daughter of Ignorance and inconſideration, I muſt tell you, this
+<pb n="7" facs="tcp:168909:7"/> 
+               <hi>He,</hi> is a Generall, and that word ſpeaks Power, a Publick Perſon and a Generall Bleſſing. And truly though I never ſpake ſo much of any living man in this Place (and I fear (or hope ſhall I ſay) ſhall ne<g ref="char:EOLhyphen"/>ver have occaſion to ſay ſo much again of any living man, a Subject) yet if I had ſpoken leſs of him, the ſtones might have flown in my face for my ſilence, and ſpoken themſelves theſe lowd Truths. The Peoples Argument to Chriſt for the Cen<g ref="char:EOLhyphen"/>turion was but a petty Topick to this; They tell him, that hee was worthy for whom he ſhould do this, <hi>for he loved their Nation, and built</hi>
+               <note place="margin">Luk. 7. 4, 5.</note> 
+               <hi>them a Synagogue.</hi> Whereas this Noble Souldier hath, not only loved, but ſaved our Nation, and not only ſaved our Nation, but (as the admir'd St. <hi>Al<g ref="char:EOLhyphen"/>ban</hi> ſays in that Hiſtory of <hi>Stanly</hi> to <hi>Hen. 7.) ſaved it and crownd it at once, nay ſaved and crownd three Nations at once.</hi> Saved the Nations and Crownd them with their King; ſaved the King and Crownd him with his People: the beſt of Crowns that ever any Prince was Crownd with, a Crown of hearts: a Crown of greater luſter than thoſe three upon his Predeceſſor <hi>Edwards</hi> Sword: and not only built us a <hi>Synagogue,</hi> but a <hi>Temple,</hi> another <hi>Zerubbabel</hi> laying the foundation at leaſt of a ſecond <hi>Temple,</hi> for our firſt is ſadly deſtroyed: but no more of that; I will not <hi>infaudum renovare dolorem,</hi> I will not blaſt your full blown joys, or grate your ears, or my heart, with any ſad and unſeaſonable Reflexions upon that mourn<g ref="char:EOLhyphen"/>full Theme, upon a day of ſuch univerſall rejoycings. But this is but one Argument of my Apology for enlarging ſo much upon this Subject the Generall, this day; my next is, that he is the Generall Subject
+<pb n="8" facs="tcp:168909:8"/> of this day. This is one of the main things in the Act of Parliament for this dayes ſolemnity, as being the Reſolve of the Lords and Commons in Parliament, <hi>That this day be ſet apart for a day of Thankſgiv<g ref="char:EOLhyphen"/>ing to the Lord, for raiſing up his Excellency the Lord Generall and other eminent Perſons, who have been Inſtrumentall in the Delivery of this Nation from Thraldome and miſery.</hi> I ſhall alſo acquaint you with another Reſolve of the Houſe of Commons of the ſame date, <hi>viz.</hi> Apr. 26. 1660. Reſolved, <hi>That his Excellency Generall</hi> Monck <hi>have the acknow<g ref="char:EOLhyphen"/>ledgement and hearty thanks of this Houſe for his eminent and unparalleld Services done for thoſe Na<g ref="char:EOLhyphen"/>tions.</hi> Mr. Speaker did accordingly give the thanks of the Houſe unto his Excellency, taking notice of his eminent Services and great Wiſdome in conquer<g ref="char:EOLhyphen"/>ing the Enemy without expenſe of Bloud or Trea<g ref="char:EOLhyphen"/>ſure. That Gods making him ſo inſtrumentall to keep up the Nation from ſinking, when no way appeared whence deliverance ſhould ariſe, could not but be acknowledged by all, and looked upon as a miracle: ſo then we muſt praiſe God for the Gene<g ref="char:EOLhyphen"/>rall this day, and when we praiſe God for him, we cannot but praiſe God in him. One Reaſon more I could give for dwelling ſo long upon General <hi>Amaſa,</hi> and that is, that he was the Kings Kinſman. See the <hi>verſ.</hi> before my Text, how the King cajoll's him: <hi>Say ye to Amaſa, art thou not of my bone and of my fleſh:</hi> it is no ſmall honour to relate to a King, but every loyall ſoul, and every loving Subject looks upon himſelf, as nearly related to his Prince by his Allegiance, as he can be by his Alliance: and upon that account thinks all the Bloud in his Veines, and
+<pb n="9" facs="tcp:168909:8"/> all the fleſh and bones of his body little enough to guard his head, his <hi>Cognatum numen,</hi> his leſſer God in fleſh, his Deity incarnate in his Prince.</p>
+            <p n="2">2. <hi>He bowed,</hi> &amp;c.] How was he qualified for ſuch a work? It is not every man that could have bow'd a whole Nation thus: and eſpecially this Na<g ref="char:EOLhyphen"/>tion of <hi>Judah.</hi> I am ſure <hi>Moſes,</hi> that was their Ge<g ref="char:EOLhyphen"/>neral as well as <hi>Amaſa,</hi> branded them for a ſtiff<g ref="char:EOLhyphen"/>neck'd rebellious People, and this General's Maſter, <hi>David,</hi> found them ſo: how come they ſo ſoft now? They were ſtiff enough as long as <hi>Abſolom</hi> liv'd: but <hi>Actio moritur cum Perſonâ,</hi> his cauſe dy'd with his carcaſe, and now they melt for him, and they melt from him. Hopes and fears may ſtiffen peoples hearts againſt their known duty, whilſt the cauſe looks pro<g ref="char:EOLhyphen"/>miſingly; but if it get a knock, ſouldiers themſelves we ſee will faces about: but nothing ſoftens like the example of a Commander, like lightning <hi>he</hi> melts the ſteele in the ſcabber'd, makes their hearts ſoft and fluid, and ductill, eaſily lead with a finger to run in their old chanel of Allegiance to their natural Prince. O a <hi>great man,</hi> but eſpecially a <hi>good great man,</hi> and beloved for his goodneſs as well as great<g ref="char:EOLhyphen"/>neſs carries an inviſible loadſtone, that <hi>bows</hi> and <hi>draws</hi> even <hi>iron hearts.</hi> Indeed when <hi>greatneſſe</hi> and <hi>good<g ref="char:EOLhyphen"/>neſſe</hi> meet together (which it is pity is no oftener) they work wonders. The God of Heaven call's great ones, Gods on earth, and therefore we give them a civil worſhip; now, <hi>Quos colimus, imitamur,</hi> ſaith the Father; and therefore if men in power be as good as they are great, they ſhew themſelves worthy the <hi>Divinity God has ſtamped upon them;</hi> for like the upper lights, they have a great influence upon
+<pb n="10" facs="tcp:168909:9"/> thoſe below them. The truth is, great men had need look what paths they tread; for they walk in ſnow, or like the Prieſts of <hi>Bell,</hi> in aſhes, every one ſees their footſteps, and moſt will walk in them. It is not for the Sunne to lie a bed till noon, while no man re<g ref="char:EOLhyphen"/>gards the riſing or ſetting of a petty Starre. We ſee by our late Uſurpers and Oppreſſours, what power ſome leading men had to bow others to their will and way: they lead people in droves to the Devil; the very broad way was full of leaders and followers. When one of theſe great things relapſes into back<g ref="char:EOLhyphen"/>ſlidings, let him goe backward from God, as many degrees as he will, he ſhall be ſure the multitude will croud after him, as the Sunne that went backward for <hi>Hezekiah,</hi> was waited upon by knots and Com<g ref="char:EOLhyphen"/>mittees of vulgar lights: It was ever the deplored faſhion of the world; let great ones doe what they will, they ſhall never want Apes, while ſometimes being too eager in tacking about to gain the tide of wealth, or the winde of honour, they not onely ſhip<g ref="char:EOLhyphen"/>wrack their ſouls (a loſſe they doe not much value) but (as we now ſee) endanger their eſtates and lives. Well theſe Grandees had need look to it. Great men are like great Pariſh clocks, if they tell a lie, and preach falſe Doctrine in the ſteeple, they miſguide the whole Town into heterodoxy. Great men are called ſtarres, and they are ſo indeed; for as they ſhed their light and heat among us, ſo all our fair or foul weather comes from them; either in counſel, com<g ref="char:EOLhyphen"/>mand, or example. But if like our <hi>Amaſa,</hi> our Ge<g ref="char:EOLhyphen"/>neral here, they guild the honour of their Birth or Place with noble Action, they convert ſouls by it, and preach themſelves into Heaven. A great good
+<pb n="11" facs="tcp:168909:9"/> man is a great good-maker; <hi>Tu converſus</hi> (ſaith Chriſt to <hi>Peter) When thou art converted, ſtrengthen thy brethren.</hi> A good man is any mans, nay every mans good; a common Conduit, Market, Maga<g ref="char:EOLhyphen"/>zine, Exchequer, Exchange. <hi>Amaſa</hi> is the Kings good, and the peoples good. A good General is a general good. He that is moſt ſtreight himſelf, is moſt likely to bow others. Upon that principle, <hi>Re<g ref="char:EOLhyphen"/>ctum eſt Index ſui &amp; obliqui:</hi> Upright perſons are fitteſt to be Rules and Rulers: for as their ſtraitneſſe makes others obliquity and warping more notorious, ſo as it diſcovers, it recovers crookedneſs many times, as he bowed, <hi>&amp;c.</hi> No marvel <hi>Amaſa</hi> ſhould have ſuch power over them; we reade his nature is in his name, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Populo parcens, Populum elevans,</hi> he mindes nothing but the advantage and advancement of the people, as they finde it in a full ſpring-tide of Trade, they bleſs God for.</p>
+            <p n="3">3. <hi>He bowed,</hi> &amp;c.] He, what He? the General? Why this bowing their heart was in loialty to their Sovereigne, and love to one another. And is this work for a General? for a man of warre to make Peace? This is as great a Riddle, as that a ſouldier ſhould invent Printing, or a ſcholar ſhould conjure up Gunning: or that a Monk ſhould unravel all the plots of the Jeſuites ſpinning. But <hi>Sic quaerimus Pacem,</hi> ſay they that deſtroy all with fire and ſword. The end of warre is Peace, and though ſouldiers of for<g ref="char:EOLhyphen"/>tune, that make a trade of warre (I hope that Trade that has broke all others, will break it ſelf at laſt) be content like the Eſtridge to eat iron, and live upon the ſword; yet they that take up the ſword onely upon an honourable neceſſity, will be glad to think an
+<pb n="12" facs="tcp:168909:10"/> honeſt convenience, a cogent neceſſity to lay it down again, and afterwards look upon it as as great an ho<g ref="char:EOLhyphen"/>nour and happineſſe to live by their <hi>head-piece,</hi> as by their <hi>ſword:</hi> eſpecially when God comes in with his <hi>ſword,</hi> and <hi>wounds</hi> a noble <hi>Commanders heart,</hi> that it bleeds for the bloud of its Countrey ungodlily pour'd out, to make a red Sea for a villain to ſwimme in to the death of his natural Prince, whoſe murther'd bo<g ref="char:EOLhyphen"/>dy is deſign'd by the hypocritical Traitor, as a foot<g ref="char:EOLhyphen"/>ſtool for <hi>Mas Anello,</hi> to clamber up to his Sovereigns Throne; and therefore it is no wonder that he bow<g ref="char:EOLhyphen"/>ed them to Peace, that the General ſhould be the Peace-maker. Thus <hi>Abner</hi> cryes to <hi>Joab,</hi> 2 Sam. 2. 26. <hi>Shall the ſword devour for ever?</hi> And ſo little an <hi>Item</hi> bows both theſe great Generals to Peace, <hi>verſ.</hi> 28. So <hi>Joab blew a trumpet, and all the people ſtood ſtill, and purſued after Iſrael no more.</hi> And oh let him have his part in <hi>Gods and the Kings Beati Pacifici,</hi> in <hi>internal, external, eternal Peace:</hi> May he be bleſſed from the beginning to the end quite through, <hi>Pſ. 128. Thou ſhalt ſee thy childrens children, and peace upon Iſrael.</hi>
+            </p>
+            <p>Secondly, The bleſſed influence of this <hi>He, That he bowed the heart of all the men of Judah.</hi>
+            </p>
+            <p>Where we are to enquire into the Act and the Object.</p>
+            <list>
+               <item>1. The Act, <hi>He bowed.</hi>
+               </item>
+               <item>2. The Object, <hi>Their heart; He bowed the heart of all the men of Judah.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>He bowea:</hi>] Was this ſuch a bleſſed influence? Was this ſuch a piece of goodneſſe? Souldiers indeed know how to make the people bowe (we know that) yes, and will make but a ſmall matter of breaking
+<pb n="13" facs="tcp:168909:10"/> them too, if they will not bowe. God dealt with us, as with his people, <hi>Iſai. 51. 23. God put us into the hand of them that afflicted us, which have ſaid to our ſoul, bowe down, that we may go over, and thou haſt laid thy body as the ground, and as the ſtreet to them that went over. Haman</hi> would break the whole Nation of the <hi>Jews,</hi> becauſe one <hi>Mordecai</hi> will not bow. But our <hi>Amaſa</hi> is of another temper: his de<g ref="char:EOLhyphen"/>ſigne is onely to bowe and not break the heart, to ſoft<g ref="char:EOLhyphen"/>en them into a ſweet compliance with their Prince, and one another. He bowed the heart of all <hi>Judah,</hi> and ſent it the King for a token. Indeed ſome hard hearts are like ſome other hard things, not to be bow<g ref="char:EOLhyphen"/>ed without violence, or at leaſt much liquoring, or greaſing with drink or money: there are ſuch thick skins in the world, that there is no bowing them with<g ref="char:EOLhyphen"/>out a great deal of oil, and that is perhaps <hi>operam &amp; ole<g ref="char:EOLhyphen"/>um pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dere.</hi> But bleſſed be God he met not with ſuch a people, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>he met with them</hi> (as we ſay) in another ſenſe.</p>
+            <p>Well he bowed them, but how? With balmy words, with ſoft and gentle ſtroking, not ſtriking them. This is <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> our Thankfulneſſe to our good God, and this noble General that he bowed us without breaking, or cutting: he undertook, and went through the cure without inciſion, cauſticks or corroſives: but like the good <hi>Samaritan</hi> he pour'd wine, and oyle into our gaping wounds, mollify'd us with ſweet ointments and balſoms, gently binding up the wound that had bled (but) too freely, and<g ref="char:punc">▪</g> to little (too little) purpoſe, but that of our enemies, to infeeble our hearts and lives, and quench our ſpirits. For juſt in ſuch a caſe he found us, as the <hi>Samaritan</hi>
+               <pb n="14" facs="tcp:168909:11"/> found the man that went down from <hi>Jeruſalem</hi> to <hi>Je<g ref="char:EOLhyphen"/>richo,</hi> and fell among thieves, which ſtript him of his raiment, and wounded him, and departed, leaving him half dead, <hi>Luk.</hi> 10. 30. Truly if it be not a lit<g ref="char:EOLhyphen"/>tle too tart, I think I may ſafely (as ſadly) ſay: we have been dealt withall as <hi>thieves</hi> do by them <hi>they rob:</hi> we have been <hi>bound</hi> and <hi>gagg'd,</hi> that we might not <hi>ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re to help our ſelves,</hi> nor <hi>cry out for the help of others:</hi> while ſome in the mean time cleverly took away our money: ſo that we owe and own to our Ge<g ref="char:EOLhyphen"/>neral, not onely the hope of redreſs, but the happi<g ref="char:EOLhyphen"/>neſſe of addreſſe. He was fain to bowe us, that he might unbinde us: if our hearts had not been bowed, our hands and tongues had been bound ſtill: and now being handſomly handled, carefully open'd, and ſoft<g ref="char:EOLhyphen"/>ly bound up again, our very wounds will bleed bal<g ref="char:EOLhyphen"/>ſome, though we bleed freely to preſerve our natural Head.</p>
+            <p n="2">2. The Object, <hi>The heart of all the men of Ju<g ref="char:EOLhyphen"/>dah.</hi> Why? were their hearts right and ſtreight be<g ref="char:EOLhyphen"/>fore he bowed them? Can they be right and ſtreight that are in actual Armes againſt their lawfull Prince? No ſure: they were farre from ſtreight: they were bowed too much the wrong way, to treaſon and re<g ref="char:EOLhyphen"/>bellion, to rapine and murder, to covetouſneſſe and cruelty, to ambition and arrogance, to their own ways, and their own wils, and their own works. Every man would be his own King, and his own Prieſt, his own Magiſtrate, and his own Miniſter: and do what ſeem'd right in their own eyes, the ordinary poſture of the peo<g ref="char:EOLhyphen"/>ple when there was no King in <hi>Iſrael;</hi> as it is a brand upon that headleſſe people often in Scripture; but eſpe<g ref="char:EOLhyphen"/>cially it is the <hi>fulmen in clauſulá,</hi> the laſt words of
+<pb n="15" facs="tcp:168909:11"/> the laſt Chapter of the Book of <hi>Judges.</hi> So that it ſeems, they were bent too much; therefore he was fain to bowe them t' other way; to bowe them, to un<g ref="char:EOLhyphen"/>bend them, to bowe them to their Prince in loialty, and to one another in love: this is the bowing that makes them ſtreight. They were a crooked genera<g ref="char:EOLhyphen"/>tion before, and he bow'd them to make them ſtreight. <hi>The evil bowe before the good,</hi> Prov. 14. 19. Thus this good General, is the fore-runner of his King, as <hi>John Baptiſt</hi> was of his Chriſt: he makes ſtreight what was crooked to pave the way to his entertain<g ref="char:EOLhyphen"/>ment.<note place="margin">Luk. 3. 5.</note>
+            </p>
+            <p>But here are two conſiderable notes that I muſt not ſlip.</p>
+            <list>
+               <item>1. That he bowed the heart of all the men of Judah.</item>
+               <item>2. Even as the heart of one man.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>1. All the hearts of the Nation,</hi> here is the Univer<g ref="char:EOLhyphen"/>ſality.</item>
+               <item>
+                  <hi>2. Even as the heart of one man,</hi> here is the Unity of their bowing.</item>
+            </list>
+            <p n="1">1. Their Univerſality, <hi>He bowed the heart of all the men of Judah.</hi> What are all bowers? What a world of Oſiers are here in a land of Oaks? Or did he change the Oaks into Oſiers, with that pretty <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that one weakly pray'd for, that God would make all the willows about his Colledge Ce<g ref="char:EOLhyphen"/>dars of <hi>Lebanon</hi> to wainſcot the houſe of the Lord. What a rare influence had the prudence, and power, and courage, and conduct of this good man, that could undeceive them all, and turn, and bowe them all to their forgotten Prince and principles? The great Art<g ref="char:EOLhyphen"/>iſt ſaid, <hi>If he could but get ſome thing ſtrong enough
+<pb n="16" facs="tcp:168909:12" rendition="simple:additions"/> to faſten on his Engine on, he did not doubt but he could the world round.</hi> Many of this kind of Engi<g ref="char:EOLhyphen"/>neers have been very buſie, and have turn'd a great part of the world round (round even to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) bleſſed be God, there was a place found yet in con<g ref="char:EOLhyphen"/>ſtant and loyal hearts, where this excellent Artiſt the General faſten'd his rare Engine of wiſdome and mo<g ref="char:EOLhyphen"/>deration, by which he has bow'd and turn'd them again to their proper motion. They are now moved by their own Angel again, their own intelligence, their native Sovereign, whom God ſet over them as his own Sphere, we hope inſeparably, as he that firſt fancy'd that opinion. Every one beginnes to move in his owne Orbe, to ſit under his owne Vine, and his own Figge-tree. But the man<g ref="char:EOLhyphen"/>ner of this ſucceſſefull bowing is beyond all compariſon admirable; the <hi>Modus rei,</hi> is as much as <hi>Res ipſa,</hi> the manner is admirable as the matter: nay in ſome ſenſe, <hi>Materiam ſuperabat opus.</hi> To ſee a whole Nation turn'd thus, and bow'd in a moment to their God, their King, and their Countrey, in ſo unexpected <note n="*" place="margin">Pſal. 126. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>, ſo unlikely a way, without money, without mutiny, without murder, is ſo rich a miracle of mercy, as not this day only, but all the dayes of our lives are little enough to be Thankſgiving-dayes: for <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urip. Alii legunt</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> I ſhall whol<g ref="char:EOLhyphen"/>ly entitle God to it, and ſet his Name upon it, with the Apoſtle S<hi rend="sup">t</hi> 
+               <hi>Pauls <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Rom. 11. 33. O the depth of the riches of the wiſdome and knowledge of God, how unſearchable are his judgements</hi> (and bleſſed be his Name, his mercies too) <hi>and his wayes paſt find<g ref="char:EOLhyphen"/>ing out?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no footſtep to trace them by; and therefore let us not buſie our heads to find them out; we ſhall praiſe God the better, the
+<pb n="17" facs="tcp:168909:12"/> more we owe to mercy, and the leſſe to men. It is true, men are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gods hands, as <hi>Herbaliſts</hi> call the Plants (and ſome have mere ſignal and ſpeaking ſignatures of God upon them) and theſe hands of God we may kiſſe. But let us be carefull not to take the Crowns and Garlands which we ſhould lay at Gods feet to ſet upon mans head. Here are two eminent Perſons, for whom, and in whom we rejoyce, whom we may with as great reaſon, as the people of <hi>Lyſtra</hi>
+               <note place="margin">Act. 14. 11. <hi>&amp;c.</hi>
+               </note> did <hi>Paul</hi> and <hi>Barnabas,</hi> call <hi>Jupiter</hi> and <hi>Mercury,</hi> but yet we dare not ſacrifice to them. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Theſe footſtep-leſſe wayes of God, let us ſpend that time in praiſing God for them, which our buſie nature would in ſearching to finde them out. I have much ado to forbear criticizing upon the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but then I ſhould runne into the Metaphor the word relates to, and take away that quick ſent of the mer<g ref="char:EOLhyphen"/>cy, and leave you at a loſſe without a footſtep to fol<g ref="char:EOLhyphen"/>low this glorious mercy to its proper forme, the great and good providence of God, that clift of the Rock in which <hi>Moſes</hi> lay, while the goodneſſe or glory of God (for his glory is his goodneſſe) paſs'd before him. We have no more to do than what <hi>Moſes</hi> did, <hi>Exod. 34. 8. And Moſes made haſte, and bowed his head down to the earth, and worſhipped.</hi> We can do no leſſe than pay ſuch a bowing of the head, for this bowing of the heart. <hi>O come, let us worſhip and bowe down,</hi> &amp;c. <hi>Pſal.</hi> 95. 6.</p>
+            <p n="2">2. The Unity as well as the Univerſality of their Bowing, is to be conſidered. Two expreſſions ſpeak it.</p>
+            <p n="1">1. It is ſaid, <hi>He bowed the heart of all the men of Judah,</hi> the heart, not the hearts: they were all of one heart, of one minde: this is the eminent and im<g ref="char:EOLhyphen"/>mediate
+<pb n="18" facs="tcp:168909:13"/> work of God. It is he that makes men to be of one minde in a houſe, <hi>Pſal.</hi> 68. 6. And we have ſeen what a rarity it has been, to finde two men of one minde in a houſe, nay hardly one of one mind for an hour together, much more in the Kingdome (as I thank God I can now call it) and that is the</p>
+            <p n="2">2<hi rend="sup">d</hi>. <hi>Even as the heart of one man.</hi> The word is not doubled in the Hebrew, it is but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and that's enough too: I would our Tranſlators would mode their rendrings ſo, that we might once ſee theſe mo<g ref="char:EOLhyphen"/>dern tongues, <hi>Linguas ancillantes,</hi> wait upon their mother and miſtreſſe, and not debaſe (and in ſome places I may ſay debauch) the holy Idiom into a low compliance with our vulgar (ſometimes too vulgar fancies:) but I have obſerved many expreſſions, ſome in the Text, and ſome in the Margin (though truly more in the Text) which I ſhall humbly preſent to the Church, when God ſhall pleaſe to give the Ark reſt. In the mean time I ſhall go on, <hi>Even as one man,</hi> or <hi>the heart<g ref="char:punc">▪</g> of one man.</hi> God complains of ſome that have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>An heart and an heart,</hi> two hearts, more than one man ſhould have, a Prodigy in the Sacrifices of faith and love. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as St. <hi>James</hi> call them, <hi>Jam. 1. 8. Double minded men, that are unſtable in all their wayes.</hi> And truly it is no wonder, that one man ſhould be unſtable that is of two mindes, when two men (nay many men) muſt needs be unſtable, that are not of one minde: there<g ref="char:EOLhyphen"/>fore to eſtabliſh them, he makes them of one minde, ſingle-hearted men: of one heart to their God, their King and Countrey. This is the mercy we have long pray'd for: Let us not forget to praiſe God as heartily for it, as we have heartily pray'd for it. I ſhall cloſe
+<pb n="19" facs="tcp:168909:13"/> this with <hi>David</hi>'s, <hi>Ecce quàm bonum &amp; quum jucun<g ref="char:EOLhyphen"/>dum?</hi> Pſal. 133. 1, 2. <hi>Behold how good and pleaſant it is for brethren to dwell together in unity? It is like the precious oinment upon the head, that ran down upon the beard, even Aarons beard: that went down to the skirts of his cloathing.</hi> From the Prince and Prieſt, the Magiſtrate and Miniſter to the loweſt ſubject. Nay like the ointment of <hi>Mary</hi> powr'd out upon the head of our Saviour; all the houſe is fill'd with the ſweet ſavour of it. Not onely the houſe of our Church and Kingdome, but the great houſe of the world <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we ſhall be as famous for our Peace, as we have been infamous for our warre; nay we ſhall redeem our elder glories, and recover that beauty and verdure which hath been ſo long withered and blaſted by our unnatural and unhappy differences (to call them no worſe) when the world ſhall ſee, <hi>Um<g ref="char:EOLhyphen"/>brâ non errabit Craſſus multâ,</hi> by our turning our ſwords, that reek yet with the blood of our Brethren, in ſome ſucceſſefull deſign upon our enemies, that we can be as a warre-like people abroad, ſo a peaceable and quiet Nation at home. And when you have a while refreſhed your ſpirits, and healed the Nation with this ſweet <hi>ſympathy-pouder of Peace,</hi> I doubt not but your gunpouder will be more offenſive in your no<g ref="char:EOLhyphen"/>ſtrils (unleſs in triumphs, when it only alludes to paſt dangers) than it has been theſe many years. It is that, which as it ſhould have blown up one, if Provi<g ref="char:EOLhyphen"/>dence had not dank'd it, ſo I am ſure has blown down many Parliaments: whereas it is this ſweet ſugred ſyllable Peace that alone can reſtore them to their juſt power and ſplendour. But no more of this. I hope the miſeries of <hi>our past warre</hi> have dearly
+<pb n="20" facs="tcp:168909:14"/> taught us the price of our <hi>preſent peace.</hi>
+            </p>
+            <p n="3">3. <hi>Part.</hi> The <hi>Bleſſed Effect</hi> of the <hi>bleſſed Influence</hi> of this <hi>bleſſed Inſtrument; So that they ſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this word unto the King, Return thou and all thy ſervants.</hi> Here I ſhall briefly touch at three particulars:</p>
+            <p>1. <hi>They ſent word. 2. They ſent this word to the King. 3. And the word they ſend to the King, Return thou and all thy ſervants.</hi>
+            </p>
+            <p n="1">1. <hi>They ſent word unto the King<g ref="char:punc">▪</g>
+               </hi> it is well yet they are bow'd ſo much, as to ſend to their King at all, that they would own him to be their King. There was a Vote paſs'd of <hi>no more addreſſes to the King.</hi> But bleſſed be God, a part of the ſame party, by whoſe power the Vote paſt for <hi>Non-Addreſſes,</hi> are now by a benigne influence bow'd to an humble owning their Sovereign. O that wretched Vote! I cannot remem<g ref="char:EOLhyphen"/>ber it without horrour, that was the bloudy Avenue, whereat r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh'd in an Army of miſchiefs, tyranny, A<g ref="char:EOLhyphen"/>narchy, any thing, every thing, that could ſpeak ſin, or ſhame, or ſorrow to the people. But no more of that, Bleſſed be God that has chang'd their <hi>Nolumus hunc regnare</hi> into our <hi>Vivat Rex.</hi> What ever was done then, it is well, yet they addreſs now<g ref="char:punc">▪</g> 
+               <hi>They ſent word:</hi> it is well they ſent, and it is well they ſent word: before they ſent nothing but blows, or a word &amp; a blow; if a word, a blow too, or words that were as bad as blows. The words that <hi>Davids</hi> Rebels ſent him, <hi>Words that were very</hi> 
+               <note n="*" place="margin">So that tran<g ref="char:EOLhyphen"/>ſlation in the Liturgy reads it.</note> 
+               <hi>ſwords.</hi> There was a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ong warre of the Pen, before that of the Sword broke out, when both ſides ſhot only Paper-pellets: then all was lap'd up in but<g ref="char:EOLhyphen"/>ter and honey, and oil, gold, and ſilk, and wooll: <hi>Your Majeſties moſt humble and obedient ſervants,</hi> and the Event hath prov'd that the major part then meant
+<pb n="21" facs="tcp:168909:14"/> it ſo; but there was a poiſonous vein in the Lampery, that venom'd the body ſo, that though <hi>Jacobs</hi> voice went along with <hi>Eſaus</hi> hand a while, the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ougher hand at laſt ſilenc'd the ſmoother and ſofter voice. So that upon the whole matter, I think without any unhand<g ref="char:EOLhyphen"/>ſome reflection upon the voice, which the hand ſtifled, I amy referre you for a character of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hu</hi>-like furious drivers to deſtroy their maſter, to <hi>Pſalme</hi> 55. where you have <hi>Davids</hi> Commentary upon the miſ<g ref="char:EOLhyphen"/>ſives and meſſages of his Rebels. For after he had ſaid, <hi>verſ. 9. That he had ſeen violence and ſtrife in the City,</hi> he comes at <hi>verſ.</hi> 21. to tell, how that <hi>vio<g ref="char:EOLhyphen"/>lence</hi> and <hi>ſtrife was diſſembled;</hi> the <hi>words were ſmooth<g ref="char:EOLhyphen"/>er than butter, but warre was in the heart.</hi> The <hi>words were ſofter than oyle,</hi> yet were they <hi>drawn ſwords,</hi> drawn out of the ſcabberd, and the ſcabberd thrown away, and onely ſheath'd in thin paper, <hi>lawn-paper</hi>-complements, a Petition and a Piſtoll, a word in one hand, and a ſword in the other. Theſe daubers with untemperd mortar, that meant to pull down the City and Temple, State and Church, had their Trowel in one hand, and their Sword in the other. Bleſſed be God, though this meſſage is of another nature; for <hi>they ſent this word to the King, Return thou and all thy ſervants.</hi> And that is the</p>
+            <p n="2">2<hi rend="sup">d</hi> Particular, <hi>They ſent this word to the King. To the King.</hi>] But one King. There is but one God in the world, but one Sunne in Heaven, but one <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oul in the whole man, but one heart in the whole body. There is Divin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in this Unity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; but one King, the King; no more <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> to many Kings: and we hope no more many Kings to addre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to. We have ſeen the miſery of many Kings: that
+<pb n="22" facs="tcp:168909:15"/> Body is in an ill poſture, where every little bone of the Rump is ſwell'd as big as a Head. We have paid dear for learning <hi>Solomons</hi> Divinity, <hi>Prov. 28. 2. For the tranſgreſsion of a land, many are the Princes there<g ref="char:EOLhyphen"/>of.</hi> We hope now to be in a capacity to go on with that wiſe King in the next words: <hi>But by a man of un<g ref="char:EOLhyphen"/>derſtanding and knowledge the ſtate thereof ſhall be pro<g ref="char:EOLhyphen"/>longed.</hi> By a man of underſtanding and knowledge; not many pretenders to underſtanding and knowledge, who whatſoever their judgement was, had no affecti<g ref="char:EOLhyphen"/>on, no compaſſion. We have a Sovereign, that is a Sovereign indeed in the ſenſe of <hi>Medicine,</hi> as well as <hi>Majeſty,</hi> of a healing vertue; <hi>Majeſtas &amp; Amor,</hi> Ma<g ref="char:EOLhyphen"/>jeſty and mercy inthron'd in his Royal breaſt; a Sove<g ref="char:EOLhyphen"/>reign like our Saviour, that can be touch'd with the <hi>feeling of our infirmities:</hi> Such an one whom beſides his Sovereign ſweet nature, his ſufferings have taught<note place="margin">Heb. 4. 15.</note> compaſſion: to this King this word is ſent: and that is the</p>
+            <p n="3">3<hi rend="sup">d</hi>. <hi>Particular, The word they ſent, Return thou and all thy ſervants.</hi>
+            </p>
+            <list>
+               <item>1. They ſent.</item>
+               <item>2. What they ſent.</item>
+            </list>
+            <p n="1">1. <hi>They ſent this word, Return,</hi> &amp;c. <hi>They</hi> (i. e.) <hi>All the men of Judah;</hi> the people of the Land in ſome frequent Senate or Convention; for ſo I ſuppoſe the people of the Land is to be underſtood. So is that 2 <hi>Chron. 33. 25. The people of the Land ſlew all them that had conſpired againſt the King: and the People of the Land made Joſiah his ſonne King in his ſtead.</hi> So here, <hi>They ſent this word</hi> (q. d.) <hi>We,</hi> all thy people ſay, <hi>Return.</hi> Our General hath bowed our heart as the heart of one man, and we unanimouſly with one heart and one voice cry, <hi>Return thou,</hi> &amp;c. It was but
+<pb n="23" facs="tcp:168909:15"/> an ungodly party among us that drove thee, and kept thee away: but now we are all for thy return: <hi>We all Lords and Commons</hi> (as it is in the Vote of <hi>May</hi> 9. in<g ref="char:EOLhyphen"/>ſtant) <hi>deſire his Majeſties ſpeedy return to his Parlia<g ref="char:EOLhyphen"/>ment, and Kingly Office.</hi>
+            </p>
+            <p n="2">2. <hi>Return thou</hi>] We are return'd to thee, do thou return to us: onely a few fanaticks, that <hi>Thou,</hi> eve<g ref="char:EOLhyphen"/>ry body elſe, are not for this <hi>Thou:</hi> but it is no matter for them, as conſiderable as they vaunt themſelves: do but <hi>Thou return,</hi> and they will be more then ever what they are, <hi>Quakers. Return thou,</hi> the glory of our Nation, the light of our Eyes, the breath of our Noſtrils: <hi>Thou,</hi> whoſe Right we own, whoſe Perſon we ho<g ref="char:EOLhyphen"/>nour, whoſe proſperity we pray for. <hi>Thou,</hi> who art the joy of our Hearts, the praiſe of our Tongues, the deſire and delight of our Eyes: <hi>Return thou,</hi> and bring new Joyes and new Glories to thy poor widow'd com<g ref="char:EOLhyphen"/>fortleſſe people; and we will gather hopes from thoſe ſtartling Providences that promiſe us thy <hi>Return,</hi> that the King of Kings will ſet up a fifth Monarchy in thy belov'd Perſon and Progeny, in a truer and nobler ſenſe, than is intended by the wilde aſſertours of that judgement. Thou canſt alone under God put a pe<g ref="char:EOLhyphen"/>riod to our unſufferable ſufferings, therefore we pray, we ſend this word, <hi>Return thou.</hi>
+            </p>
+            <p n="3">3. <hi>And thy ſervants.</hi>] Thoſe that were before look'd upon as enemies, our hearts are now bow<g ref="char:EOLhyphen"/>ed to entertain and imbrace as friends: <hi>Thou</hi> art our great Maſter, and thy ſervants are our fellow-ſer<g ref="char:EOLhyphen"/>vants.</p>
+            <p n="4">4. <hi>All thy ſervants</hi>] We will not dare ſo fanati<g ref="char:EOLhyphen"/>cal an inſolence, as to think of ſhackling or reſtraining our Prince to Numbers or Perſons: it is above our
+<pb n="24" facs="tcp:168909:16"/> duty, and it is below thy dignity: No, no, All come and welcome: All that pleaſe thee ſhall pleaſe us: <hi>Re<g ref="char:EOLhyphen"/>turn thou and all thy ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vants.</hi>
+            </p>
+            <p>The next words are, <hi>So the King returned.</hi> Be it ſo Lord, be it ſo, <hi>Amen.</hi> The King of Kings return him to us with ſpeed and ſafety, and keep him with us with honour and happineſs, by keeping us to him with Humility and Sincerity.</p>
+            <p>I had done here, but that there is a <hi>bowing the heart</hi> in my Text, which bows my heart, to bow your heart in a ſhort application.</p>
+            <p>Our backs have been bow'd down to bear all the burdens that proud and wicked men thought fit to lay upon us. Like <hi>Iſſachar</hi> we have lain crouching be<g ref="char:EOLhyphen"/>tween two burdens of ſinne and ſhame: our hearts and our backs too bowed, till they almoſt broke, by our fellow Subjects. Since then our hearts are thus ſweetly bow'd in Loyalty to our natural King, and love to our native Countrey; Let us ſay with S<hi rend="sup">t</hi> 
+               <hi>Paul, Epheſ. 3. 14. For this cauſe I bowe my knees unto the Father of our Lord Jeſus Chriſt.</hi> And as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> expreſſes it, <hi>Pſal. 95. 6. O come let us worſhip and bowe down, let us kneel before the Lord our maker:</hi> Let us bowe down in praiſe and prayer. I will onely quicken your memories with a few hints, what you ſhould praiſe and pray for, and then joyn with you in praiſe and prayer for them, and the Lord bowe all our hearts to, and in this Duty.</p>
+            <p>Firſt, For the Exerciſe of the Duty of praiſing God this day, the Text and the Time put us in minde of eight things.</p>
+            <p n="1">1. That the Lord hath pleas'd to bowe the heart of the General to be ſo eminent an Inſtrument for his
+<pb n="25" facs="tcp:168909:16"/> Glory and our Good. This is the duty the Parlia<g ref="char:EOLhyphen"/>ment cals upon us for, but I hope we need no quick<g ref="char:EOLhyphen"/>ning.</p>
+            <p n="2">2. That the Lord hath crown'd that excellent In<g ref="char:EOLhyphen"/>ſtrument with ſo magnetick an Influence; that he hath bowed ſo many hearts, heads and hands without break<g ref="char:EOLhyphen"/>ing any.</p>
+            <p n="3">3. That we our ſelves are ſincerely bow'd to our duty, to our King and our Countrey.</p>
+            <p n="4">4. That this bowing is ſo univerſal, as to miracle it is: We may ſay as much, All the men of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as the Text ſayes, <hi>All the men of Judah.</hi> If the <hi>major</hi> part be all, if an hundred to one be all.</p>
+            <p n="5">5. That this bowing our heart to our King, is as unanimous as univerſal. All hearts centred in obedi<g ref="char:EOLhyphen"/>ence to his Sacred Majeſty. We hear of triumphal Arches erected in honour of the two new married Princes; we have an Arch which we acknowledge not ſo artificial, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would we have it ſo, it were not good it were ſo: and that is that Arch which alone will bear the weight of a Kingdom, the univerſal and united bent of all our hearts to our King. All hearts are bow'd into one Arch; a Bow which like that Bow that wears the Kings Colours in Heaven, in a party<g ref="char:EOLhyphen"/>coloured Ribband (woven with Sunne-beams upon a cloud) ſhall be for a Token and a Covenant between God, our King and us, that a deluge of warre and miſe<g ref="char:EOLhyphen"/>ry ſhall never deſtroy us any more.</p>
+            <p n="6">6. For the wiſdome and goodneſſe of the Kings moſt Excellent Majeſty, who was bowed by God into ſuch a condeſcenſion, as to vouchſafe to ſend ſuch gracious Letters and Declarations to the
+<pb n="26" facs="tcp:168909:17"/> Parliament, General, City, Navy.</p>
+            <p n="7">7. For thoſe humble Meſſages that are ſent back from all theſe to his Majeſty, with their moſt humble deſires of his Returne, <hi>That they ſent this word, Returne thou and all thy ſer<g ref="char:EOLhyphen"/>vants.</hi>
+            </p>
+            <p n="8">8. That the deſires of the Parliament for the Kings Return are ſo free, ſo full, ſo ingenuous for him, and all his ſervants. From my ſoul I bleſſe God, and I deſire you to do ſo too, for the ſweet mutual repoſe and abſolute confidence and truſt be<g ref="char:EOLhyphen"/>tween the King and his Houſes: which is to me the beſt Augury of our future happineſs, becauſe all our former ſufferings owe their beginnings to our fooliſh fears and jealouſies.</p>
+            <p>Secondly, <hi>Prayer.</hi> There is a great ſtock of Prayers to be laid up, and to be laid out upon a three-fold Ac<g ref="char:EOLhyphen"/>count.</p>
+            <list>
+               <item>1. For the Remiſſion of National ſins.</item>
+               <item>2. For the Removal of National Judgements.</item>
+               <item>3. For the Reſtoring of National Mercies.</item>
+            </list>
+            <p n="1">1. For the Remiſſion of National ſinnes. Never expect good from God and the King, till you repent the evils againſt God and the King.</p>
+            <p>
+               <hi>Object.</hi> There were great and grain-ſins commit<g ref="char:EOLhyphen"/>ted in the Nation, to which guilt we would not, if we could, and could not if we would have contributed; as we could not hinder ſuch villanies, ſo we did not further them, but hated and abhorred them in their Cauſes and Conſequences, ſo far as we could foreſee them all along.</p>
+            <p>
+               <hi>Sol.</hi> I anſwer that I dare anſwer for you, there is no tincture of the actual guilt of thoſe high abomina<g ref="char:EOLhyphen"/>tions,
+<pb n="27" facs="tcp:168909:17"/> crimſon ſinnes, ſticks to you; you may ſay as to all the blood ſhed in the high-places of the field, or that <hi>Akeldama Weſtminſter</hi>-Hall, with the Apoſtle, you <hi>are clear from the blood of all men.</hi> But O let us conſider whether we have not contracted a guilt <hi>ex p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt facto,</hi> if not by cloſing with the power theſe bloudy monſters ſwumme to in blood, yet by not pouring out water enough before the Lord to waſh away this defilement, and ſtop the Cataract of ven<g ref="char:EOLhyphen"/>geance, which we may juſtly expect, God will let looſe in ſhowrs of blood upon the Nation.</p>
+            <p n="2">2. Though we could not perhaps have prevented them, we ought not to have connived at them. As we ought not to have comply'd with them, ſo we ought to have complain'd of them more to God, than it is to be feared we did. I ſhall only give you a ſlight touch or two upon ſome of them, and that ſo farre onely as I conceive they may bring vengeance upon the Na<g ref="char:EOLhyphen"/>tion without repentance. For as I hate to take in that ſink that ſtinks all the world over, or ſtirre that old foul dunghill, the corruption whereof has bred ſo many vipers, that tear out<g ref="char:punc">▪</g> their mothers bowels: ſo I ſcorn to throw any bitter reflections at a party that is down. I ſhall onely minde you of them, as I have but too much reaſon to fear, they will draw down the vials of Gods wrath upon the Nation, un<g ref="char:EOLhyphen"/>leſſe good people pray them away. There be many of them like the Devils in <hi>Mary,</hi> Legion, a phraſe which the more ſuits thoſe ſinnes, as ſpeaking not on<g ref="char:EOLhyphen"/>ly multitude, but power, an arm'd multitude. But I ſhall wrap them up all in one piece, but it is ſcarlet, the notion of bloud, a ſin of the deepeſt die, and the loudeſt cry: we may all pray with <hi>David,</hi> Pſa. 51. 14.
+<pb n="28" facs="tcp:168909:18"/> 
+               <hi>Deliver me from blood guiltineſſe, O God,</hi> ſo we reade it, but it is <hi>from bloods</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Several ſorts of blood lie upon us, and cry upon us. I ſhall name onely four; bloud of People, bloud of Prophets, bloud of Princes, bloud of Chriſt.</p>
+            <p>And here becauſe every mans heart and eyes, as well as tongue, can ſpeak freely upon this ſad ſub<g ref="char:EOLhyphen"/>ject, I ſhall ſay no more but this: O pray, pray to God for pardon of our heat and tinderneſſe to warre, the ſwiftneſſe of our feet to ſhed bloud. I could tell you how too freely you parted with your gold to ſet up Calves, that you might worſhip them. But I think you have dearly paid for this State-idolatry, though I cannot ſay dearly enough, becauſe I fear the Lord hath not yet ſaid to his deſtroying Angel, it is enough. We cannot but fear that a great ſhowre of vengeance will fall upon us, unleſſe we prevent it with a ſhowr of tears, for all that bloud of the Nation, which our Land hath drunk up ſo freely, till it ſtagger'd and reel'd again: and to compleat the Sacrifice to Pride, Ambition and Covetouſneſſe, it was crowned with the bloud of our lawfull excellent Prince. This bloud is loud bloud; it cryes high; and I am afraid the cry of our tears, the voice of our weeping hath not yet ſtilled the cry of this ſinne. This bloud is not ſpeech<g ref="char:EOLhyphen"/>leſſe yet. O let us pray that the bloud of Chriſt would plead for us, and waſh away this bloud: and ſo for the bloud of the Goſpel, in countenancing even blaſphemy it ſelf: diſcountenancing the Truth and its Preaching and Profeſſours, and proſtituting the Ordinances of the firſt magnitude to the baſeſt of villanies, here's work enough for this head of prayer, for the remiſſion of National ſins.</p>
+            <pb n="29" facs="tcp:168909:18"/>
+            <p>2. For removing of National Judgements, which we either feel or fear, eſpecially <hi>from warre, battel and murder. David</hi> rather choſe Plague than Warre, to fall into the hands of God than man. O pray a<g ref="char:EOLhyphen"/>gainſt the Cauſes and Conſequences of Warre. The cauſes, diviſions in Church and State, and diſſatisfied<g ref="char:EOLhyphen"/>neſſe with the preſent, though we know not how to make it better: and the Conſequences of it, de<g ref="char:EOLhyphen"/>ſtruction of body and ſoul, Eſtate, Relations, Name, Nation, All. O it is the devouring ſword: it hath done too much, the Lord ſay, it hath done enough.</p>
+            <p n="3">3. For Reſtoring National Mercies. Here I ſhall propound to your devotion two heads of prayer.</p>
+            <p n="1">1. That the Lord will pleaſe to return our King to us ſafely and ſpeedily, we muſt pray to God as well as the King for his Return. Lord return him ſpeedily to us, and keep him ſafely with us, to thy Glory, the good of thy Church, the honour of the Goſpel, the Peace, Plenty and Proſperity of all his Majeſties Do<g ref="char:EOLhyphen"/>minions: and let all the people ſay, <hi>Amen.</hi>
+            </p>
+            <p n="2">2. That the Lord who hath pleas'd to bowe our hearts, would keep them bow'd to himſelf, his ſe<g ref="char:EOLhyphen"/>cond ſelf, his ſacred Majeſty, and to our ſelves (<hi>i. e.</hi>) to one another. That the King may rejoyce in his people, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e people may glory in their King, and both King and people in their God: that we may ſee God ſhining upon us in that glorious Prophecy, <hi>Iſa. 1. 26. I will r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtore thy Judges as at the firſt, and thy Counſel<g ref="char:EOLhyphen"/>lours as at the beginning; afterward thou ſhalt be called the City of Righteouſneſſe, the faithfull City.</hi> The good Lord reſtore Magiſtracy and Miniſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to their loſt beauty and ſplendour, and that old Peace and Plenty, honour and ſafety with which he hath heretofore
+<pb n="30" facs="tcp:168909:19"/> crowned this Queen of Iſlands, <hi>Amen, Amen.</hi>
+            </p>
+            <p>I have but one word more, and that is concerning the Joy of this day. I would not willingly give the leaſt check to the honeſt and ſober expreſſions of your Joy: you were never bleſt with a time that more re<g ref="char:EOLhyphen"/>quir'd it: but then it is honeſt and ſober Joy I mean, not rude, beaſtly drunkenneſs &amp; debauchery: No, <hi>Serve the Lord with fear, and rejoyce before him with trembling, Pſ. 2. 11. (i. e.</hi>) Fear to offend God in your Joy. I ſhall beg this of you that belong to my charge, for three precious ſakes, your good Gods ſake, your good Kings ſake, and your good Cauſes ſake.</p>
+            <p n="1">1. For your good Gods ſake, that gracious God who hath given you this bleſſed opportunity of rejoy<g ref="char:EOLhyphen"/>cing, and can turn that joy into weeping, as he has done your water into wine. Provoke him not to an<g ref="char:EOLhyphen"/>ger under a pretence of praiſing him for his mercy. Do not blaſt ſuch a glorious mercy as this is, by abuſing Gods other mercies in riot and drunkenneſs.</p>
+            <p n="2">2. For your good Kings ſake. His moſt excellent Majeſty, who is the juſt cauſe of your joy is a ſober Prince, and no man ever hated drunkenneſs and de<g ref="char:EOLhyphen"/>bauchery ſo much as he, unleſs it were his Father of precious and glorious memory, who was the <hi>Great Ex<g ref="char:EOLhyphen"/>ample of Temperance in every kinde<g ref="char:punc">▪</g> Reg<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ad Ex<g ref="char:EOLhyphen"/>emplum</hi>—O imitate two Kings rather than beggars and rogues, that can be content to die as they live, beaſts.</p>
+            <p n="3">3. For your good Cauſes ſake. Remember that there is a Party in the Nation, whoſe eyes are upon you to ſpie out ſomething that may open their mouths againſt you and your Cauſe, and are reſolv'd to take advantage from the looſneſs of your mirth, to make people believe, that now all wickedneſs and prophane<g ref="char:EOLhyphen"/>neſs
+<pb n="31" facs="tcp:168909:19"/> is broke looſe, and riot ſhall be countenanc'd, which is a great diſparagement to your Prince, your Parliament, and this glorious Cauſe. Let us not drink down this Cauſe again; it ſhrunk in the wetting be<g ref="char:EOLhyphen"/>fore: we know, how little drinking the Kings health contributed to his help. If this good Cauſe ſhould take wet again, I will not pro<g ref="char:EOLhyphen"/>phecy, but I will pray yet againſt this wickedneſſe. Let us pray and praiſe God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
